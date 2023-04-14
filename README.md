@@ -22,8 +22,8 @@
 <h3 align="center">🍀 About Me 🍀</h3><br>
 
 <p align="center">
-    <a href="https://equal-draw-0f9.notion.site/Juyoung-Kang-92e6cf4500dd4105bc564a2d563cdebd"><img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a>
-    <a href="https://seojoo21.tistory.com"><img src="https://img.shields.io/badge/Tistory-Tech Blog-EEEEEE?style=for-the-badge&logo=Blogger&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
+    <a href="https://equal-draw-0f9.notion.site/84b9935ce0b7454b9725e4d8be4c63c5"><img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a>
+    &nbsp; &nbsp; &nbsp;
 </p>
 
 <p align="center">Click to go </p>

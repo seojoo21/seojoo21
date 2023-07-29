@@ -24,9 +24,6 @@
 <p align="center">
     <a href="https://equal-draw-0f9.notion.site/84b9935ce0b7454b9725e4d8be4c63c5"><img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a>
     &nbsp; &nbsp; &nbsp;
-</p>
-
-<p align="center">
     <a href="https://jaydevlog.tistory.com"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"></a>
     &nbsp; &nbsp; &nbsp;
 </p>

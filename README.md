@@ -26,4 +26,9 @@
     &nbsp; &nbsp; &nbsp;
 </p>
 
+<p align="center">
+    <a href="https://jaydevlog.tistory.com"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"></a>
+    &nbsp; &nbsp; &nbsp;
+</p>
+
 <p align="center">Click to go </p>
